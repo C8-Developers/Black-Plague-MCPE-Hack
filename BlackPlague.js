@@ -83,7 +83,7 @@ menuLayout1.addView(menuScroll);
 text.setTextSize(30);
 
 text.setText("The Black Plague");
-text.setGravity(android.view.Gravity.CENTER);text.setTextColor(android.graphics.Color.GREY);
+text.setGravity(android.view.Gravity.CENTER);text.setTextColor(android.graphics.Color.WHITE);
 
      
 text.setBackgroundDrawable(new android.graphics.drawable.ColorDrawable( android.graphics.Color.TRANSPARENT));       
